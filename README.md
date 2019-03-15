@@ -1,5 +1,5 @@
-## Second attempt
-- Recreate below but with latest version of Unity (2018.3.7f1) and MRTK ()
+## latest-holotoolkit attempt
+- Recreate below but with latest version of Unity (2018.3.7f1) and Holotoolkit ()
 - Built ok. Next steps: finish adding to git and test on hololens. I'm using .net backend but it'll "be deprecated soon" so shoudl try to switch il2cpp if this works.
 
 ## First attempt
